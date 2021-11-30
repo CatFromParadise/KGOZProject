@@ -1,0 +1,14 @@
+body{
+    width: 100%;
+}
+.card-pos{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    bottom: 6%;
+}
+.card-blck{
+    height: 4.5vh;
+}
